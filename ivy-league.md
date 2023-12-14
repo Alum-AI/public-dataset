@@ -1,4 +1,4 @@
-# IVY League
+# Ivy League
 
 
 | Institution | Location |	Undergraduates | Postgraduates | Endowment | Academic staff | Year founded | Nickname |
