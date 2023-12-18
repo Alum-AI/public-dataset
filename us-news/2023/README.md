@@ -1,6 +1,6 @@
 # US News 2023
 
-## Nationa Universities
+## National Universities
 
 1. Princeton University
 2. Massachusetts Institute of Technology
